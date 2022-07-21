@@ -1,0 +1,13 @@
+.movie-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.movie-card-details {
+  color: white;
+  position: absolute;
+  bottom: 0%;
+  padding: 4px;
+  width: 96%;
+  background-color: rgba(15, 14, 14, 0.75) !important;
+}

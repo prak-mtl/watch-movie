@@ -1,0 +1,18 @@
+.label-rapper {
+  width: 174px;
+  height: 34px;
+  background: #e3e3e3 0% 0% no-repeat padding-box;
+  border-radius: 20px;
+  padding: 5px 4px;
+}
+
+.active-label {
+  width: 140px;
+  height: 30px;
+  background: #ec2227 0% 0% no-repeat padding-box;
+  border-radius: 20px;
+  padding: 4px 12px;
+
+  color: white;
+  font-weight: bold;
+}
